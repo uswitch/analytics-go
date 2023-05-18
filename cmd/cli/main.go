@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/segmentio/analytics-go/v3"
 	"github.com/segmentio/conf"
+	"github.com/uswitch/analytics-go"
 )
 
 func main() {
